@@ -1,2 +1,2 @@
 # Clock
-CSS project to demonstrate a analog clock
+CSS project to demonstrate an analog clock
